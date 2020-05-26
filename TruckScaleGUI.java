@@ -222,10 +222,9 @@ public class TruckScaleGUI extends JFrame implements ActionListener {
     driversList = new ArrayList<CustomerInformation>();
     
     //Adding two drivers in for testing and functionality.
-    CustomerInformation testDriver = new CustomerInformation("Robert Hall","423","test@test.co",21,"1468684","4233819146");
     CustomerInformation testDriver_2 = new CustomerInformation("John Doe","421 Wallaby","tester@gmail.com",45,"1827457","4233009120");
     driversList.add(testDriver_2);
-    driversList.add(testDriver);
+    
     
     //Setting up panel
     panel = new JPanel();
