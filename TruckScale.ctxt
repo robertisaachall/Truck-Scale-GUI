@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=TruckScale
+comment0.text=\r\n\r\n\ @author\ Joseph\ Edward\r\n\ @ID\:tyv379\r\n\ @Date\:02/19/2020\r\n\ @version\:\ 1.0\r\n
+comment1.params=newWeight\ newSize\ newAxel\ classWeight
+comment1.target=TruckScale(double,\ double,\ int,\ int)
+comment10.params=
+comment10.target=double\ ToPrice()
+comment2.params=
+comment2.target=TruckScale()
+comment3.params=newWeight
+comment3.target=void\ setTruckWeight(double)
+comment4.params=
+comment4.target=double\ getTruckWeight()
+comment5.params=newSize
+comment5.target=void\ setTruckSize(double)
+comment6.params=
+comment6.target=double\ getTruckSize()
+comment7.params=newAxel
+comment7.target=void\ setAxelNumber(double)
+comment8.params=
+comment8.target=double\ getAxelNumber()
+comment9.params=toPrice
+comment9.target=double\ ToFinal(double)
+numComments=11

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=validation
+comment1.params=list
+comment1.target=validation(java.util.ArrayList)
+comment1.text=\r\n\ Constructor\ for\ the\ class.\r\n\ @param\ Takes\ in\ an\ ArrayList\ of\ CustomerInformation\ and\ keeps\ it\ for\ the\ method.\r\n
+comment2.params=fName\ lName\ empID
+comment2.target=int\ checkList(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ fname\ \:\ First\ Name\ of\ Driver\r\n\ @param\ lName\ \:\ Last\ Name\ of\ Driver\r\n\ @param\ empID\:\ Employee\ ID\ of\ Driver.\r\n\ @return\ Returns\ -1\ if\ the\ driver\ is\ not\ in\ the\ list,\ returns\ index\ in\ array\ if\ user\ is\ in\ the\ list.\r\n
+numComments=3

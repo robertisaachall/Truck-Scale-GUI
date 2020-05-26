@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=TruckScaleGUI
+comment1.params=g
+comment1.target=void\ paint(java.awt.Graphics)
+comment2.params=
+comment2.target=void\ displayUser()
+comment2.text=\r\n\ Used\ whenever\ the\ information\ about\ the\ driver\ selected\ is\ updated.\r\n\ Clears\ the\ previous\ driver,\ and\ updates\ the\ display\ with\ correct\ information\r\n\ @param\ \ None\r\n\ @return\ None\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ readFromFile()
+comment3.text=\r\n\ Not\ used\ in\ final\ program.\ Kept\ here\ to\ allow\ testing.\r\n\ Originally\ used\ to\ test\ drivers\ list\ to\ ensure\ functionality.\r\n\ Depreciated\ in\ final\ version.\r\n\ @param\ \ None\r\n\ @return\ List\ of\ strings\ from\ a\ file\ into\ an\ ArrayList.\r\n
+comment4.params=list
+comment4.target=CustomerInformation\ getValueInScrollPanel(javax.swing.JList)
+comment4.text=\r\n\ Method\ used\ in\ the\ "Select\ User"\ screen,\ whenever\ a\ user\ is\ selected\r\n\ this\ function\ grabs\ that\ selected\ user\ from\ the\ list\ and\ returns\ it.\r\n\r\n\ @param\ \ Takes\ in\ a\ JList\ of\ drivers.\r\n\ @return\ A\ driver\ which\ will\ be\ used\ as\ currentViewedUser\r\n
+comment5.params=
+comment5.target=TruckScaleGUI()
+comment5.text=\r\n\ Constructor\ for\ the\ TruckScaleGUI\ class.\r\n\ This\ constructor\ brings\ up\ the\ display,\ adds\ all\ buttons,\r\n\ adds\ labels\ for\ viewability\ and\ displays\ components\ at\ certain\ x\ ,\ y\ areas.\r\n
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.text=\r\n\ This\ function\ gives\ the\ buttons\ functionality.\ All\ buttons\ have\ certain\r\n\ values\ attached\ which\ allows\ us\ to\ distinguish\ and\ code\ certain\ buttons\ based\r\n\ on\ if\ they\ are\ selected.\ Includes\ all\ button\ functionality.\r\n\r\n\ @param\ \ An\ ActionEvent.\ Whenever\ a\ button\ is\ pressed\ this\ method\ is\ called.\r\n\ @return\ None\r\n
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
